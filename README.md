@@ -1,5 +1,30 @@
 # VolumioDeck
 
+## Volumio Deck Controls
+
+![alt text](images/mydeck.jpg "MyDeck")
+
+### Dial 1
+    - Turn Clockwise: Increase the deck brightness
+    - Turn Counter Clockwise: Decrease the deck brighness
+    - Press: Toogle the deck display
+
+### Dial 2
+    - Turn Clockwise: Go to the next page of tiles
+    - Turn Counter Clockwise: Go to the prev page of tiles
+    - Press: Reload tiles from json file
+
+### Dial 3
+    - Turn Clockwise: Next Track
+    - Turn Counter Clockwise: Prev Tack
+    - Press: Toogle Play/Pause
+
+### Dial 4
+    - Turn Clockwise: Increase the Volume
+    - Turn Counter Clockwise: Decrease the Volume
+    - Press: Toogle Mute
+
+
 ## Volumio Deck Setup
 ### Ensure system is up to date, upgrade all out of date packages
 ``` bash
@@ -58,27 +83,3 @@ chmod +x service_install.sh
 chmod +x service_uninstall.sh
 ./service_uninstall.sh
 ```
-
-## Volumio Deck Controls
-
-![alt text](images/mydeck.jpg "MyDeck")
-
-### Dial 1
-    - Turn Clockwise: Increase the deck brightness
-    - Turn Counter Clockwise: Decrease the deck brighness
-    - Press: Toogle the deck display
-
-### Dial 2
-    - Turn Clockwise: Go to the next page of tiles
-    - Turn Counter Clockwise: Go to the prev page of tiles
-    - Press: Reload tiles from json file
-
-### Dial 3
-    - Turn Clockwise: Next Track
-    - Turn Counter Clockwise: Prev Tack
-    - Press: Toogle Play/Pause
-
-### Dial 4
-    - Turn Clockwise: Increase the Volume
-    - Turn Counter Clockwise: Decrease the Volume
-    - Press: Toogle Mute
