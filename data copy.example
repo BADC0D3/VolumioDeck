@@ -1,0 +1,13 @@
+[
+    {
+        "text": "",
+        "image": "80.png",
+        "data": {
+            "service": "webradio",
+            "type": "webradio",
+            "title": "America's Greatest 80s Hits",
+            "uri": "http://opml.radiotime.com/Tune.ashx?id=s302307",
+            "albumart": "http://cdn-profiles.tunein.com/s302307/images/logoq.jpg?t=1"
+        }
+    }
+]

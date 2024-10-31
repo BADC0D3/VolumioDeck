@@ -1,0 +1,4 @@
+pillow==10.4.0
+requests==2.32.3
+streamdeck==0.9.5
+python-dotenv==1.0.1
