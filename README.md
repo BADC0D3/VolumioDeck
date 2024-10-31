@@ -39,6 +39,26 @@ EOF
 pip3 install -r requirements
 ```
 
+### Start VolumeDeck
+``` bash
+chmod +x run.sh
+./run.sh
+```
+
+## Volumio Deck Service
+
+### Install Service
+``` bash
+chmod +x service_install.sh
+./service_install.sh
+```
+
+### Uninstall Service
+``` bash
+chmod +x service_uninstall.sh
+./service_uninstall.sh
+```
+
 ## Volumio Deck Controls
 
 ![alt text](images/mydeck.jpg "MyDeck")
